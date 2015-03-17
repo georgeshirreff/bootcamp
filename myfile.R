@@ -8,3 +8,6 @@
 #git config --global user.email "sldkdslfj@dfdjskfjd.com"
 
 #git status is a good default command if you're not sure what to do next. 
+
+#git checkout ???
+
