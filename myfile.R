@@ -12,4 +12,6 @@
 #git checkout switch-to-this-branch
 #git checkout -b create-new-branch
 
+#git remote refers to remote repositories e.g. on Github
+
 
