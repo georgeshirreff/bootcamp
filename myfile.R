@@ -9,5 +9,7 @@
 
 #git status is a good default command if you're not sure what to do next. 
 
-#git checkout ???
+#git checkout switch-to-this-branch
+#git checkout -b create-new-branch
+
 
